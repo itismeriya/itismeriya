@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itismeriya
 - 👀 I’m interested in ... SCIENCE,ENGINEERING,TECHNOLOGY
-- 💻 Web developer, Software Engineer, VI/VX Designer, Coding Tester
 - 💕 Love to participate in Various TECHNICAL QUIZES,TECH COMPETITIONS,WORKSHOPS,WEBINARS
 - 🤞 ACTIVE LEARNER who loves to learn about new or updated technologies
 <!---
