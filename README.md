@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @itismeriya
-- 💻 It is me an Engineer
-- 👀 I’m interested in ... TECHNOLOGY,DEVELOPMENT,WEB DESIGN
+- 💻 It is me an CS/IT Engineer
+- 👀 I’m interested in ... CODING,TECHNOLOGY,DEVELOPMENT,DESIGN,TESTING
+- TRAINER of Higher Secondary standard , College level technical students
 - 💕 Love to participate in Various TECH QUIZES,TECH COMPETITIONS,TECH WORKSHOPS,WEBINARS
 - 🤞 ACTIVE LEARNER who loves to learn new technologies day-by-day
 <!---
